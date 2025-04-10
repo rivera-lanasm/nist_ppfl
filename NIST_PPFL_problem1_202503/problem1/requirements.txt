@@ -1,0 +1,8 @@
+adversarial-robustness-toolbox==1.18.2
+ipykernel==6.29.0
+ipywidgets==8.1.5
+notebook==7.3.2
+numpy==1.26.4
+pandas==2.2.0
+torch>=1.13.1
+
